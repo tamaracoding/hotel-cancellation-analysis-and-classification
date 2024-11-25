@@ -1,5 +1,6 @@
 # hotel-cancellation-analysis-and-classification
 Analisis data hotel internasional dan klasifikasi untuk memprediksi jenis tamu yang akan melakukan pembatalan
+Tableau dashboard: https://public.tableau.com/app/profile/tamara.puspita/viz/HotelCancellationAnalysis_FinalProject/Dashboard1
 
 ## <div style="padding: 30px;color:white;margin:10;font-size:60%;text-align:left;display:fill;border-radius:10px;background-color:#FFFFFF;overflow:hidden;background-color:#FF5733"><b><span style='color:#FFFFFF'>1 |</span></b> <b>Business Problem Understanding</b></div>
 
